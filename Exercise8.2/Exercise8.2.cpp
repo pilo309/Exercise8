@@ -109,7 +109,7 @@ int main()
 				Wait(500);
 			}
 
-			codeOkay = 0;
+			codeOkay = 0;				//
 			ledOff(5);
 			ledOn(6);
 			// Her skrives den del af programmet som låser "døren" op/låser "døren" og styrer LED'erne
